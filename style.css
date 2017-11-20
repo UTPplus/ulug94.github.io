@@ -1,0 +1,61 @@
+body{
+	font-family: sans-serif;
+	background: url(img/fon.jpg);
+}
+li{
+	display: inline;
+	padding-right: 15px;
+	
+}
+ul a{
+	text-decoration: none;
+	color: #666;
+	margin-left: 50px;
+	font-size: 30px;
+}
+ul a:hover{
+	text-decoration: underline;
+	color: #ec6060; 
+	 
+}
+h1{
+	font-size: 120px;
+	color: #ece6e6;
+	text-align: center;
+	margin-top: 50px;
+	letter-spacing: -5px;
+	text-shadow: 5px -2px 1px red;
+}
+.fir{
+	width: 700px;
+	margin: auto;
+	color: gray;
+}
+.sec{
+	width: 50%;
+	float: left;
+}
+aside{
+
+}
+img{
+	height: 400px;
+	width: 400px;
+}
+p,ol{
+	color: white;
+}
+h3{
+	font-size: 60px;
+	color: white;
+	text-shadow: 3px -2px 0 blue;	
+}
+.ok{
+	color: white;
+	font-size: 20px;
+}
+
+.img{
+	width: 250px;
+	height: 240px;
+}
